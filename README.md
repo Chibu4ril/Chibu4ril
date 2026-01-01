@@ -69,7 +69,7 @@ Focused on LLM applications, API design, and deployment.
 - GitHub: [github.com/Chibu4ril](https://github.com/Chibu4ril)  
 - Website: -
 - Email: chibuokemonye@gmail.com  
-- LinkedIn / Twitter / Blog: [github.com/Chibu4ril](https://linkedin.com/in/ichibuokem)
+- [LinkedIn](https://linkedin.com/in/ichibuokem)
 
 ---
 

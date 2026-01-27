@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Innocent Chibuokem (Chibu4ril)
+# 👋 Hi, I'm Innocent (Chibu4ril)
 
 Applied AI & MLOps — I build production-ready AI systems and backend services.  
 Focused on LLM applications, API design, and deployment.
